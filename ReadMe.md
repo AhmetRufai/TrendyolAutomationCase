@@ -4,3 +4,12 @@ The purpose of the Cucumber library is to create test scenarios close to colloqu
 Slf4j library was used to see detailed log information.
 The created dashboard is stored under the /report file according to the date information.
 When a scenario failed, it was shown on the dashboard along with a screenshot.
+
+
+Dashboard fail case:
+
+![FailScreenShot](https://raw.githubusercontent.com/AhmetRufai/TrendyolAutomationCase/master/ScreenShots/DashboardFail.JPG)
+
+Dashboard success case:
+
+![FailScreenShot](https://raw.githubusercontent.com/AhmetRufai/TrendyolAutomationCase/master/ScreenShots/DashboardSuccess.PNG)
